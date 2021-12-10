@@ -13,7 +13,7 @@ Helène Benghalem, Pierre Cahuc, and Pierre Villedieu. "The Lock-In Effects of P
 
 > We ran a large randomized controlled experiment among about 150,000 recipients of unemployment benefits insurance in France in order to evaluate the impact of part-time unemployment benefits. We took advantage of the lack of knowledge of job seekers regarding this program and sent emails presenting the program. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.
 
-[Latest Version](/files/pdf/research/Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Slides](/files/pdf/research/slides-Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research}
+[Latest Version](https://pvilledieu.github.io/pvilledieu/files/pdf/research/Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Slides](https://pvilledieu.github.io/pvilledieu/files/pdf/research/slides-Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research}
 
 
 ## Work in Progress
