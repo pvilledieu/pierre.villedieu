@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #jayrobw
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -100,19 +100,19 @@ author:
   facebook         :
   foursquare       :
   github           : "pvilledieu"
-  gitlab           : #"jayrobwilliams"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"jayrobwilliams"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"jayrobw"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
