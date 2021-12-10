@@ -7,34 +7,19 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+## Working Papers
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+Helène Benghalem, Pierre Cahuc, and Pierre Villedieu. "The Lock-In Effects of Part-Time Unemployment Benefits."
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+> We ran a large randomized controlled experiment among about 150,000 recipients of unemployment benefits insurance in France in order to evaluate the impact of part-time unemployment benefits. We took advantage of the lack of knowledge of job seekers regarding this program and sent emails presenting the program. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.
 
-<nbsp>
+[Latest Version](/files/pdf/research/Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Slides](/files/pdf/research/slides-Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research}
 
-{% include base_path %}
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+## Work in Progress
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+Jérémy Hervelin and Pierre Villedieu. "The benefits of early work experience for school dropouts: Evidence from a field experiment"
+
+<div style="text-align: justify"> School dropouts face long-lasting negative effects on the labor market with increasing unemployment rate in the early life. This paper aims at analyzing the effect of a one-year job-related experience via a subsidized job program after young people dropped out of school. Relying on an correspondence study field experiment, we examine the consequences on the chances of having job interviews in France. We find that the chances to be invited for an interview are more than doubled (from 7.6% to 19.3%) when applicants signal a one-year work experience in their résumé - either certified or not; either in the market or non-market sector-, in comparison with youths who remained mainly inactive after dropping out from high school. We show that this effect is quite stable across firm, contract or labor market characteristics and it is robust to another channel of application where résumés were sent spontaneously to firms. </div>
+
+[Draft available upon request](pierre.villedieu@sciencespo.fr){: .btn--research}
