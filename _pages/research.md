@@ -30,3 +30,19 @@ Jérémy Hervelin and Pierre Villedieu. "The Role of Caseworkers in the Labor Ma
 > <div style="text-align: justify"> About 13% of young people aged 15–29-year-old were not in employment, education, or training (NEET) in OECD countries in 2019. As a part of the public employment services, the Mission Locales agencies are specially dedicated to young people who face major labor market integration issues in France. We propose to use the quasi-random allocation of caseworkers to youths to study how caseworkers can affect the future trajectories of young unemployed. Preliminary evidence show that caseworkers with higher placement rates in a formalized job search assistance program positively affect the employment outcomes of youths: top tercile caseworkers are found to increase youths' total number of days of employment by about 11 days two years after their first meeting with a youth, which corresponds to a 5% increase, in comparison with bottom tercile caseworkers. </div>
 
 [Draft available upon request](mailto:pierre.villedieu@sciencespo.fr){: .btn--research}
+
+
+## Policy Reports
+
+Discrimination à l’embauche selon le sexe : les enseignements d’un testing de grande ampleur \\
+Joint collaboration between Dares, IPP, and ISM Corum\\
+[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/note_discrim_1.pdf){: .btn--research}
+
+Y a-t-il de la discrimination à l’embauche selon le sexe parmi les candidatures d’origine maghrébine ?\\
+Joint collaboration between Dares, IPP, and ISM Corum\\
+[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/note_discrim_2.pdf){: .btn--research}
+
+Discrimination à l’embauche des personnes d’origine supposée maghrébine : quels enseignements d’une grande étude par testing ?\\
+Joint collaboration between Dares, IPP, and ISM Corum\\
+[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/note_discrim_3.pdf){: .btn--research}
+
