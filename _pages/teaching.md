@@ -6,7 +6,7 @@ title: "Teaching"
 ## Lecturer
 - Introduction to econometrics with R (Fall 2019 to Fall 2020)
     - undergraduate course
-    - introduces students to the basics of econometrics, causal analysis as well as and how to implement it into R
+    - introduces students to the basics of econometrics, causal analysis and how to implement it with R
     - [Github repo](https://github.com/ScPoEcon/ScPoEconometrics) 
 
 ## Teaching Assistant
