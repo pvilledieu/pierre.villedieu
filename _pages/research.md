@@ -7,7 +7,9 @@ header:
   og_image: "research/ecdf.png"
 ---
 
+
 ## Working Papers
+
 
 <h3>The Lock-In Effects of Part-Time Unemployment Benefits.</h3>
 with <i>[Helène Benghalem](https://sites.google.com/view/helenebenghalem/home) and [Pierre Cahuc](https://sites.google.com/site/pierrecahuc/)</i>
@@ -19,6 +21,7 @@ with <i>[Helène Benghalem](https://sites.google.com/view/helenebenghalem/home) 
 
 ## Work in Progress
 
+
 <h3>The benefits of early work experience for school dropouts: Evidence from a field experiment.</h3>
 with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 
@@ -29,7 +32,6 @@ with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 
 <h3>The Role of Caseworkers in the Labor Market Integration of Young Unemployed: Evidence from France.</h3>
 with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
-
 
 > <div style="text-align: justify"> About 13% of young people aged 15–29-year-old were not in employment, education, or training (NEET) in OECD countries in 2019. As a part of the public employment services, the Mission Locales agencies are specially dedicated to young people who face major labor market integration issues in France. We propose to use the quasi-random allocation of caseworkers to youths to study how caseworkers can affect the future trajectories of young unemployed. Preliminary evidence show that caseworkers with higher placement rates in a formalized job search assistance program positively affect the employment outcomes of youths: top tercile caseworkers are found to increase youths' total number of days of employment by about 11 days two years after their first meeting with a youth, which corresponds to a 5% increase, in comparison with bottom tercile caseworkers. </div>
 
