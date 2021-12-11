@@ -42,13 +42,13 @@ with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 
 Discrimination à l’embauche selon le sexe : les enseignements d’un testing de grande ampleur.\\
 Joint collaboration between [Dares](https://dares.travail-emploi.gouv.fr), [IPP](https://www.ipp.eu), and [ISM Corum](http://www.ismcorum.org)\\
-[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/note_discrim_1.pdf){: .btn--research}
+[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/research/note_discrim_1.pdf){: .btn--research}
 
 Y a-t-il de la discrimination à l’embauche selon le sexe parmi les candidatures d’origine maghrébine ?\\
 Joint collaboration between [Dares](https://dares.travail-emploi.gouv.fr), [IPP](https://www.ipp.eu), and [ISM Corum](http://www.ismcorum.org)\\
-[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/note_discrim_2.pdf){: .btn--research}
+[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/research/note_discrim_2.pdf){: .btn--research}
 
 Discrimination à l’embauche des personnes d’origine supposée maghrébine : quels enseignements d’une grande étude par testing ?\\
 Joint collaboration between [Dares](https://dares.travail-emploi.gouv.fr), [IPP](https://www.ipp.eu), and [ISM Corum](http://www.ismcorum.org)\\
-[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/note_discrim_3.pdf){: .btn--research}
+[PDF](https://pvilledieu.github.io/pvilledieu/files/pdf/research/note_discrim_3.pdf){: .btn--research}
 
