@@ -13,8 +13,8 @@ title: "Teaching"
 - Perspectives in Economics and Sociology: Issues of migration, Discrimination, Justice and Religion (Spring 2019 to Fall 2019)
     - undergraduate course 
     - introduces students to several topics at the crossroads of Economics and Sociology
-    - [syllabus](https://pvilledieu.github.io/pvilledieu/files/pdf/teaching/syllabus_perspect_eco_socio.pdf)
+    - [syllabus](https://pvilledieu.github.io/files/pdf/teaching/syllabus_perspect_eco_socio.pdf)
 - Labor Market Policies in a Comparative Perspective (Spring 2019)
     - Graduate course
     - introduces students to the recent research in labor economics
-    - [syllabus](https://pvilledieu.github.io/pvilledieu/files/pdf/teaching/syllabus_labor.pdf)
+    - [syllabus](https://pvilledieu.github.io/files/pdf/teaching/syllabus_labor.pdf)
