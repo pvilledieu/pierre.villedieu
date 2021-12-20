@@ -17,7 +17,7 @@ with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home)
 > <div style="text-align: justify"> 
 We ran a large randomized controlled experiment among about 150,000 recipients of unemployment benefits insurance in France in order to evaluate the impact of part-time unemployment benefits. We took advantage of the lack of knowledge of job seekers regarding this program and sent emails presenting the program. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.</div>
 
-[Latest Version](https://pvilledieu.github.io/files/pdf/research/Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Slides](https://pvilledieu.github.io/files/pdf/research/slides-Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
+[Latest Version](https://pvilledieu.github.io/files/pdf/research/Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [IZA Discussion Paper](https://www.iza.org/publications/dp/14189/the-lock-in-effects-of-part-time-unemployment-benefits) [Slides](https://pvilledieu.github.io/files/pdf/research/slides-Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
 
 
 ## Work in Progress
@@ -43,7 +43,7 @@ About 13% of young people aged 15–29-year-old were not in employment, educatio
 [Draft available upon request](mailto:pierre.villedieu@sciencespo.fr){: .btn--research} [Poster](https://pvilledieu.github.io/files/pdf/research/poster_caseworkers.pdf){: .btn--research}
 
 
-## Policy Reports
+## Policy Reports <i>(In French)</i>
 
 ### Discrimination à l’embauche selon le sexe : les enseignements d’un testing de grande ampleur.
 Joint collaboration between [Dares](https://dares.travail-emploi.gouv.fr), [IPP](https://www.ipp.eu), and [ISM Corum](http://www.ismcorum.org)\\
