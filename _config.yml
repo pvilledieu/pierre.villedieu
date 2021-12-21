@@ -72,13 +72,7 @@ social:
 
 
 # Analytics
-analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
-  google:
-    tracking_id          : G-MLC1DH7BLV
-  goatcounter:
-    code		 : 
-
+google_analytics: G-MLC1DH7BLV
 
 # Site Author
 author:
