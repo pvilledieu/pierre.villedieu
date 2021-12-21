@@ -75,9 +75,9 @@ social:
 analytics:
   provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          : 
+    tracking_id          : G-MLC1DH7BLV
   goatcounter:
-    code		 : pvilledieu
+    code		 : 
 
 
 # Site Author
