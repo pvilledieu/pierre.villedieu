@@ -40,7 +40,7 @@ with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 About 13% of young people aged 15–29-year-old were not in employment, education, or training (NEET) in OECD countries in 2019. As a part of the public employment services, the Mission Locales agencies are specially dedicated to young people who face major labor market integration issues in France. We propose to use the quasi-random allocation of caseworkers to youths to study how caseworkers can affect the future trajectories of young unemployed. Preliminary evidence show that caseworkers with higher placement rates in a formalized job search assistance program positively affect the employment outcomes of youths: top tercile caseworkers are found to increase youths' total number of days of employment by about 11 days two years after their first meeting with a youth, which corresponds to a 5% increase, in comparison with bottom tercile caseworkers.</div>
 
 
-[Draft available upon request](mailto:pierre.villedieu@sciencespo.fr){: .btn--research} [Poster](https://pvilledieu.github.io/files/pdf/research/poster_caseworkers.pdf){: .btn--research}
+[Draft available upon request](mailto:pierre.villedieu@sciencespo.fr){: .btn--research} [Slides](https://pvilledieu.github.io/files/pdf/research/slides_Caseworkers_VA) [Poster](https://pvilledieu.github.io/files/pdf/research/poster_caseworkers.pdf){: .btn--research}
 
 
 ## Policy Reports <i>(In French)</i>
