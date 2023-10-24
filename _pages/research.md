@@ -12,12 +12,12 @@ header:
 
 
 ### The Lock-In Effects of Part-Time Unemployment Benefits.
-with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home) and [Pierre Cahuc](https://sites.google.com/site/pierrecahuc/)</i>
+with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home) and [Pierre Cahuc](https://sites.google.com/site/pierrecahuc/)</i>. 2023, </i>Journal of Human Resources</i>
 
 > <div style="text-align: justify"> 
-We ran a large randomized controlled experiment among about 150,000 recipients of unemployment benefits insurance in France in order to evaluate the impact of part-time unemployment benefits. We took advantage of the lack of knowledge of job seekers regarding this program and sent emails presenting the program. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.</div>
+We conducted a large randomized controlled experiment that provides information on part-time unemployment benefits to unemployment insurance recipients in France. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.</div>
 
-[Latest Version](https://pvilledieu.github.io/files/pdf/research/Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [IZA Discussion Paper](https://www.iza.org/publications/dp/14189/the-lock-in-effects-of-part-time-unemployment-benefits){: .btn--research} [Slides](https://pvilledieu.github.io/files/pdf/research/slides-Lock-in Effects of Part time Unemp Benefits.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
+[Accepted version](https://pvilledieu.github.io/files/pdf/research/The_Lock_in_Effects_of_Information_on_Part_time_Unemployment_Benefits__Benghalem_Cahuc_Villedieu.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
 
 
 ### The Benefits of Early Work Experience for School Dropouts: Evidence from a Field Experiment
@@ -27,7 +27,7 @@ with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 This paper investigates whether work experience gained through a subsidized job program can improve the employment prospects of young school dropouts. Relying on a correspondence study field experiment conducted in France, we find that the chances to be invited for a job interview are more than doubled (from 7.6 percent to 19.3 percent) when youths signal a one-year job related experience in their résumé -- either in the private or public sector; either certified or not -- compared to youths who remained mainly inactive after dropping out from high school. We show that this effect is fairly stable across firm, contract or labor market characteristics, and also when testing another channel of application where resumes were sent spontaneously to firms.</div>
 
 
-[Latest Version](https://pvilledieu.github.io/files/pdf/research/Benefits of Early Work Experience for School Dropouts.pdf){: .btn--research}
+[Latest Version](https://pvilledieu.github.io/files/pdf/research/HervelinVilledieu_WorkExperience.pdf){: .btn--research}
 
 
 ## Work in Progress
