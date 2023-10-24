@@ -8,8 +8,7 @@ header:
 ---
 
 
-## Working Papers
-
+## Publications 
 
 ### The Lock-In Effects of Part-Time Unemployment Benefits.
 with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home) and [Pierre Cahuc](https://sites.google.com/site/pierrecahuc/)</i>. 2023, <i>Journal of Human Resources</i>
@@ -20,6 +19,7 @@ We conducted a large randomized controlled experiment that provides information 
 [DOI](https://doi.org/10.3368/jhr.0522-12328R2){: .btn--research} [Accepted version](https://pvilledieu.github.io/files/pdf/research/The_Lock_in_Effects_of_Information_on_Part_time_Unemployment_Benefits__Benghalem_Cahuc_Villedieu.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
 
 
+## Working Papers
 
 ### The Benefits of Early Work Experience for School Dropouts: Evidence from a Field Experiment
 with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
@@ -31,9 +31,6 @@ This paper investigates whether work experience gained through a subsidized job 
 [Latest Version](https://pvilledieu.github.io/files/pdf/research/HervelinVilledieu_WorkExperience.pdf){: .btn--research}
 
 
-## Work in Progress
-
-
 ### The Role of Caseworkers in the Labor Market Integration of Young Unemployed: Evidence from France.
 with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 
@@ -41,7 +38,7 @@ with <i>[Jérémy Hervelin](http://www.jeremy-hervelin.fr)</i>
 About 13% of young people aged 15–29-year-old were not in employment, education, or training (NEET) in OECD countries in 2019. As a part of the public employment services, the Mission Locales agencies are specially dedicated to young people who face major labor market integration issues in France. We propose to use the quasi-random allocation of caseworkers to youths to study how caseworkers can affect the future trajectories of young unemployed. Preliminary evidence show that caseworkers with higher placement rates in a formalized job search assistance program positively affect the employment outcomes of youths: top tercile caseworkers are found to increase youths' total number of days of employment by about 11 days two years after their first meeting with a youth, which corresponds to a 5% increase, in comparison with bottom tercile caseworkers.</div>
 
 
-[Draft available upon request](mailto:pierre.villedieu@sciencespo.fr){: .btn--research} [Slides](https://pvilledieu.github.io/files/pdf/research/slides_Caseworkers_VA.pdf){: .btn--research} [Poster](https://pvilledieu.github.io/files/pdf/research/poster_caseworkers.pdf){: .btn--research}
+[Draft available upon request](mailto:pierre.villedieu@sciencespo.fr){: .btn--research} 
 
 
 ## Policy Reports <i>(In French)</i>
