@@ -17,7 +17,8 @@ with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home)
 > <div style="text-align: justify"> 
 We conducted a large randomized controlled experiment that provides information on part-time unemployment benefits to unemployment insurance recipients in France. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.</div>
 
-[Accepted version](https://pvilledieu.github.io/files/pdf/research/The_Lock_in_Effects_of_Information_on_Part_time_Unemployment_Benefits__Benghalem_Cahuc_Villedieu.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
+[DOI](https://doi.org/10.3368/jhr.0522-12328R2){: .btn--research} [Accepted version](https://pvilledieu.github.io/files/pdf/research/The_Lock_in_Effects_of_Information_on_Part_time_Unemployment_Benefits__Benghalem_Cahuc_Villedieu.pdf){: .btn--research} [Vox EU column](https://voxeu.org/article/lock-effects-part-time-unemployment-benefits){: .btn--research}
+
 
 
 ### The Benefits of Early Work Experience for School Dropouts: Evidence from a Field Experiment
