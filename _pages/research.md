@@ -12,7 +12,7 @@ header:
 
 
 ### The Lock-In Effects of Part-Time Unemployment Benefits.
-with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home) and [Pierre Cahuc](https://sites.google.com/site/pierrecahuc/)</i>. 2023, </i>Journal of Human Resources</i>
+with <i>[Hélène Benghalem](https://sites.google.com/view/helenebenghalem/home) and [Pierre Cahuc](https://sites.google.com/site/pierrecahuc/)</i>. 2023, <i>Journal of Human Resources</i>
 
 > <div style="text-align: justify"> 
 We conducted a large randomized controlled experiment that provides information on part-time unemployment benefits to unemployment insurance recipients in France. The information provision had a significant positive impact on the propensity to work while on claim, but reduced the unemployment exit rate, showing important lock-in effects into unemployment associated with part-time unemployment benefits. The extension of the duration of compensated unemployment counterbalanced the increase in the number of days worked while on claim so that the net expenditure of unemployment insurance remained unchanged.</div>
