@@ -10,4 +10,4 @@ redirect_from:
 
 I hold a Ph.D. in Economics from [Sciences Po Paris](https://www.sciencespo.fr/department-economics/en.html). My research focuses on labor economics and the evaluation of public policies, with a particular interest in the labor market integration of disadvantaged populations and issues related to discrimination.
 
-I am currently working at the statistical service of the French ministry of Labor, [Dares](https://dares.travail-emploi.gouv.fr)).
+I am currently working at the statistical service of the French ministry of Labor, [Dares](https://dares.travail-emploi.gouv.fr).
